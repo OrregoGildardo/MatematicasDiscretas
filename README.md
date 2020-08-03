@@ -1,4 +1,4 @@
-#Resumen
+# Resumen
 Las Matemáticas Discretas son una parte de las matemáticas que estudia estructuras que pueden contarse
 con procesos que son contables con variables discretas o digitales; efectivamente, da las técnicas para
 resolver problemas aplicados a la ciencia de la computación y en especial, a la ingeniería eléctrica,
@@ -14,19 +14,20 @@ seguro que apoyado por su conocimiento podremos construir un grupo de conceptos 
 demás lectores al conocimiento de esta área.   
 
 
-#Temas
-1. [Teoría de números](Contenido/TEORIA DE NUMEROS.pdf)
-1. [Sistemas de codificación](Contenido/SISTEMAS DE CODIFICACIÓN.pdf)
-1. [Punto flotante](Contenido/PUNTO FLOTANTE.pdf)
-1. [Lógica de proposiciones](Contenido/LOGICA DE PROPOSICIONES.pdf)
-1. [Lógica de cuantificadores](Contenido/CUANTIFICADORES.pdf)
-1. [Teoría de conjuntos](Contenido/CONJUNTOS.pdf)
-1. [Relaciones](Contenido/RELACIONES.pdf)
-1. [Funciones](Contenido/8 FUNCIONES.pdf)
-1. [Relaciones de recurrencia](Contenido/RELACIONES DE RECURRENCIA.pdf)
-1. [Teoría de grafos](Contenido/GRAFOS.pdf)
-1. [Árboles binarios](Contenido/TEORIA DE ARBOLES BINARIOS.pdf)
-1. [Booleana](Contenido/BOOLEANA.pdf)
+# Temas
+1. [Teoría de números](https://github.com/OrregoGildardo/MatematicasDiscretas/blob/master/Contenido/1%20TEORIA%20DE%20NUMEROS.pdf)
+2. [Sistemas de codificación](https://github.com/OrregoGildardo/MatematicasDiscretas/blob/master/Contenido/2%20SISTEMAS%20DE%20CODIFICACI%C3%93N.pdf)
+3. [Punto flotante](https://github.com/OrregoGildardo/MatematicasDiscretas/blob/master/Contenido/3%20TEORIA%20DE%20PUNTO%20FLOTANTE.pdf)
+4. [Lógica de proposiciones](https://github.com/OrregoGildardo/MatematicasDiscretas/blob/master/Contenido/4%20LOGICA%20DE%20PROPOSICIONES.pdf)
+5. [Inferencia y demostraciónes](https://github.com/OrregoGildardo/MatematicasDiscretas/blob/master/Contenido/5%20INFERENCIA%20Y%20DEMOSTRACI%C3%93N.pdf)
+6. [Lógica de cuantificadores](https://github.com/OrregoGildardo/MatematicasDiscretas/blob/master/Contenido/6%20L%C3%93GICA%20DE%20CUANTIFICADORES.pdf)
+7. [Teoría de conjuntos](https://github.com/OrregoGildardo/MatematicasDiscretas/blob/master/Contenido/7%20TEORIA%20DE%20CONJUNTOS.pdf)
+8. [Relaciones](https://github.com/OrregoGildardo/MatematicasDiscretas/blob/master/Contenido/8%20RELACIONES.pdf)
+9. [Funciones](https://github.com/OrregoGildardo/MatematicasDiscretas/blob/master/Contenido/9%20FUNCIONES.pdf)
+10. [Relaciones de recurrencia](https://github.com/OrregoGildardo/MatematicasDiscretas/blob/master/Contenido/10%20RELACIONES%20DE%20RECURRENCIA.pdf)
+11. [Teoría de grafos](https://github.com/OrregoGildardo/MatematicasDiscretas/blob/master/Contenido/11%20TEORIA%20DE%20GRAFOS.pdf)
+12. [Árboles binarios](https://github.com/OrregoGildardo/MatematicasDiscretas/blob/master/Contenido/12%20TEORIA%20DE%20ARBOLES%20BINARIOS.pdf)
+13. [Booleana](https://github.com/OrregoGildardo/MatematicasDiscretas/blob/master/Contenido/13%20L%C3%93GICA%20BOOLEANA.pdf)
 
 
 #Libros de apoyo
