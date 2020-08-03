@@ -30,7 +30,7 @@ demás lectores al conocimiento de esta área.
 13. [Booleana](https://github.com/OrregoGildardo/MatematicasDiscretas/blob/master/Contenido/13%20L%C3%93GICA%20BOOLEANA.pdf)
 
 
-#Libros de apoyo
+# Libros de apoyo
 * JOHNSONBAUGH. Matemáticas discretas. Ed. Prentice Hall.   
 * KOLMAN y otros. Estructuras de Matemáticas discretas para la computación. Ed. Prentice Hall.   
 * ROSEN, KENNETH. Discrete Matemathics and its applications. AT&T, 1999.   
